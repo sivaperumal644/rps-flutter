@@ -72,13 +72,13 @@ class HomeState extends State<Home> {
                 )),
             _result(cpu: true),
             _result(),
-            Expanded(
-                child: Container(
-                    margin: EdgeInsets.all(50),
-                    child: Text(
-                      _displayResult(),
-                      style: TextStyle(fontSize: 22.0),
-                    ))),
+            Container(
+              margin: EdgeInsets.only(top: 50),
+              child: Text(
+                _displayResult(),
+                style: TextStyle(fontSize: 22.0),
+              ),
+            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
