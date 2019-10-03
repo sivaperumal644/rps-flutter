@@ -1,6 +1,6 @@
 # RPS
 
-A fun game of Rock Paper Scissors built with Flutter. Submitted for Flutter Create.
+A fun game of Rock Paper Scissors built with Flutter. Submitted for Flutter Create. You can download the game [here](https://drive.google.com/open?id=1qS_WwdJXD515oc6jOmmYQeX0igSmfVAN)
 
 ## Playing the Game
 
